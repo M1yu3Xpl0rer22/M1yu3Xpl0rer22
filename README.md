@@ -66,13 +66,13 @@ Hi! I’m Mayur, a self-driven cybersecurity enthusiast and 3rd-year engineering
   <a href="https://x.com/localhost12001" target="_blank">
     <img src="https://img.shields.io/badge/X-Twitter-black?style=for-the-badge&logo=twitter" />
   </a>
-  <a href="https://linkedin.com/in/mayur-sapkale" target="_blank">
+  <a href="https://www.linkedin.com/in/mayur-sapkale-72855b25b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:mayursapakale9503@gmail.com">
     <img src="https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/httpmayur" target="_blank">
+  <a href="https://www.instagram.com/httpmayur/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram" />
   </a>
 </p>
