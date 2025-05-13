@@ -1,8 +1,8 @@
-<h1 align="center">🕶️ Mayur Sapkale</h1>
-<h3 align="center">Aspiring Penetration Tester | Bug Bounty Hunter</h3>
+<h1 align="center" style="font-family:Comic Sans MS;">🕶️ Mayur Sapkale</h1>
+<h3 align="center" style="font-family:Comic Sans MS;">Aspiring Penetration Tester | Bug Bounty Hunter</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=37FF9D&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Bug+Bounty+Hunter;InfoSec+Learner;Red+Team+Wannabe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=22&pause=1000&color=37FF9D&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Bug+Bounty+Hunter;InfoSec+Learner;Red+Team+Wannabe" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@ Hi! I’m Mayur, a self-driven cybersecurity enthusiast and 3rd-year engineering
 ## ⚒️ Tools & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git" />
+  <img src="https://skillicons.dev/icons?i=c,linux,bash,python,git" />
   <img src="https://img.shields.io/badge/Burp%20Suite-orange?logo=burpsuite&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nmap-blue?logo=kalilinux&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Recon--ng-darkgreen?style=for-the-badge" />
@@ -79,4 +79,4 @@ Hi! I’m Mayur, a self-driven cybersecurity enthusiast and 3rd-year engineering
 
 ---
 
-> 💬 *“In cybersecurity, knowledge is the best zero-day.”*
+> 💬 <span style="font-family:Comic Sans MS;">*“In cybersecurity, knowledge is the best zero-day.”*</span>
