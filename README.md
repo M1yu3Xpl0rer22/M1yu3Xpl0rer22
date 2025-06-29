@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-Hi! I’m Mayur, a self-driven cybersecurity enthusiast and 3rd-year engineering student. I’m focused on learning real-world security vulnerabilities, practicing offensive security techniques, and responsibly reporting bugs through various platforms.
+Hi! I’m Mayur, a self-driven cybersecurity enthusiast and 4th-year engineering student. I’m focused on learning real-world security vulnerabilities, practicing offensive security techniques, and responsibly reporting bugs through various platforms.
 
 - 🔍 Currently focused on **bug bounty hunting** and **web app pentesting**
 - 🛠️ Building practice labs like **SSRF testing**, **local file inclusion**, etc.
